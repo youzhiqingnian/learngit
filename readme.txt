@@ -6,3 +6,4 @@ test branch strategy.
 stash test.
 stash test2.
 stash test3.
+tag test
